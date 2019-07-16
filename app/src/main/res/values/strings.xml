@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MDR</string>
+    <string name="app_users">ورود با کدملی</string>
+    <string name="app_password">رمزعبور</string>
+    <string name="app_open">ورود</string>
+    <string name="app_waiting">منتظر بمانید...</string>
 </resources>

@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="TextInputLayout">#9fa1a2</color>
+    <color name="ColorText">#9a9a9a</color>
+    <color name="secondary_text_color">#656565</color>
+    <color name="LoginTextColor">#636363</color>
+    <color name="ColorRed">#e24c3b</color>
+    <color name="ColorTextRed">#c24537</color>
+    <color name="colorGreenButton">#45bf90</color>
+
 </resources>
